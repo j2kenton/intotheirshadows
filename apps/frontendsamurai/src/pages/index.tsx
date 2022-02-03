@@ -121,15 +121,11 @@ const Index: React.FunctionComponent = () => {
       </Screen>
       <Screen className="colored intro">
         <ContentWrapper>
-          <StyledH1>Welcome Samurai</StyledH1>
-          <p>Before we start our journey, we must first clear our minds.</p>
-          <p>Take a deep breath.</p>
-          <p>
-            Let go of your <em>ninja</em> training.
-          </p>
-          <p>
-            And open your heart to the path of the <em>samurai</em>.
-          </p>
+          <StyledH1>The adventure begins...</StyledH1>
+          <p>When his parents disappear without a trace, seventeen-year-old Kai is forced to infiltrate their top-secret office to find out the truth. Sounds simple right? There's only one problem. He's never been out of his house.
+</p>
+          <p>For as long as he can remember, Kai has longed for the day he can leave his overprotective parents. He never expected it would be them who disappeared. And now, instead of enjoying the freedom from his parents, he's determined to get them back.
+</p>
           <DownArrow />
         </ContentWrapper>
       </Screen>
