@@ -21,7 +21,7 @@ const ScreenComponent = styled.section`
   }
   &.toBeContinued {
     text-align: center;
-    background-color: ${indigo[3]};
+    background-color: ${indigo[0]};
   }
   &.fullPage {
     height: 100vh;
