@@ -16,7 +16,6 @@ const ScreenComponent = styled.section`
   }
   &.intro {
     background: linear-gradient(180deg, #000000 0%, ${indigo[0]} 100%);
-    text-align: center;
     font-size: 1.5rem;
   }
   &.toBeContinued {
