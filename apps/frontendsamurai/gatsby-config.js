@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    birthYear: 2020,
-    title: `Frontend Samurai`,
-    description: `Welcome to the Frontend Samurai Training Academy`,
+    birthYear: 2022,
+    title: `Into Their Shadows- Jewish Novel`,
+    description: `Novel Homepage`,
     authorName: "Jonathan Kenton",
-    authorTagline: "Aspiring Frontend Samurai",
-    siteUrl: "http://frontendsamurai.com",
+    authorTagline: "Author of Be a Man- Be Yourself",
+    siteUrl: "http://intotheirshadows.com",
   },
   plugins: [
     'gatsby-plugin-styled-components',
