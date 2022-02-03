@@ -126,7 +126,6 @@ const Index: React.FunctionComponent = () => {
 </p>
           <p>For as long as he can remember, Kai has longed for the day he can leave his overprotective parents. He never expected it would be them who disappeared. And now, instead of enjoying the freedom from his parents, he's determined to get them back.
 </p>
-          <DownArrow />
         </ContentWrapper>
       </Screen>
       {null && categoriesList.map(
