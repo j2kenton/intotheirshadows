@@ -113,9 +113,8 @@ const Index: React.FunctionComponent = () => {
         </MassiveHeader>
         <MassiveHeader className="permanentHeader">
           <MassiveH1>
-            <GroupedText>into</GroupedText>{' '}
-            <GroupedText className="glowing">their</GroupedText>
-            <GroupedText>shadows</GroupedText>
+            <GroupedText>into their</GroupedText>{' '}
+            <GroupedText className="glowing">shadows</GroupedText>
           </MassiveH1>
           <DownArrow />
         </MassiveHeader>
