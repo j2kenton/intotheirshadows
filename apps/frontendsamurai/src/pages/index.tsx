@@ -109,19 +109,19 @@ const Index: React.FunctionComponent = () => {
     <StyledApp>
       <Screen className="fullPage">
         <MassiveHeader className="initialHeader">
-          <MassiveH1>It's time to go</MassiveH1>
+          <MassiveH1>It's time to go...</MassiveH1>
         </MassiveHeader>
         <MassiveHeader className="permanentHeader">
           <MassiveH1>
-            <GroupedText>into their</GroupedText>{' '}
-            <GroupedText className="glowing">shadows</GroupedText>
+            <GroupedText>Into Their</GroupedText>{' '}
+            <GroupedText className="glowing">Shadows</GroupedText>
           </MassiveH1>
           <DownArrow />
         </MassiveHeader>
       </Screen>
       <Screen className="colored intro">
         <ContentWrapper>
-          <StyledH1>The adventure begins...</StyledH1>
+          <StyledH1>Introducing Kai Azuri</StyledH1>
           <p>When his parents disappear without a trace, seventeen-year-old Kai is forced to infiltrate their top-secret office to find out the truth. Sounds simple right? There's only one problem. He's never been out of his house.
 </p>
           <p>For as long as he can remember, Kai has longed for the day he can leave his overprotective parents. He never expected it would be them who disappeared. And now, instead of enjoying the freedom from his parents, he's determined to get them back.
