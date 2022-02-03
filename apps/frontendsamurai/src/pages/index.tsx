@@ -129,7 +129,7 @@ const Index: React.FunctionComponent = () => {
           <DownArrow />
         </ContentWrapper>
       </Screen>
-      {categoriesList.map(
+      {null && categoriesList.map(
         ({ screens, name, color, previousColor }, categoryIndex) => (
           <Category
             key={name}
