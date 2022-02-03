@@ -109,12 +109,13 @@ const Index: React.FunctionComponent = () => {
     <StyledApp>
       <Screen className="fullPage">
         <MassiveHeader className="initialHeader">
-          <MassiveH1>DON'T BE A NINJA</MassiveH1>
+          <MassiveH1>It's time to go</MassiveH1>
         </MassiveHeader>
         <MassiveHeader className="permanentHeader">
           <MassiveH1>
-            <GroupedText>BE A</GroupedText>{' '}
-            <GroupedText className="glowing">FRONTEND SAMURAI</GroupedText>
+            <GroupedText>into</GroupedText>{' '}
+            <GroupedText className="glowing">their</GroupedText>
+            <GroupedText>shadows</GroupedText>
           </MassiveH1>
           <DownArrow />
         </MassiveHeader>
