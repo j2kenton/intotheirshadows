@@ -151,8 +151,6 @@ const Index: React.FunctionComponent = () => {
             </GroupedText>
             &nbsp;&middot;&nbsp;
             <GroupedText>{site.siteMetadata.authorName}</GroupedText>
-            &nbsp;&middot;&nbsp;
-            <GroupedText>{site.siteMetadata.authorTagline}</GroupedText>
           </p>
           <hr />
         </ContentWrapper>
